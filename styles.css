@@ -1,0 +1,134 @@
+body {
+    display: flex;
+    margin-left: 30px;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.primoesercizio {
+    width: 400px;
+    background-color: black;
+    color: white;
+    box-shadow: 10px 0px 10px rgb(199, 139, 28);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.primoesercizio h3 {
+    padding: 10px;
+}
+
+.primoesercizio label {
+    padding: 10px;
+    color: blue;
+}
+
+#bottone {
+    background-color: blue;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    margin-left: 30%;
+}
+
+#risultato {
+    color: red;
+    margin-left: 25%;
+}
+
+.secondoesercizio {
+    width: 400px;
+    background-color: blue;
+}
+
+.secondoesercizio h3 {
+    color: white;
+    padding: 10px;
+
+}
+.secondoesercizio label {
+    padding: 10px;
+    color: rgb(239, 239, 242);
+}
+
+
+#bottone2 {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    margin-left: 30%;
+}
+
+#risultato2 {
+    color: red;
+    margin-left: 25%;
+}
+
+.terzoesercizio {
+    background-color: gold;
+    padding: 10px;
+}
+
+.terzoesercizio label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.quartoesercizio {
+    background-color: green;
+    height: 200px;
+    padding: 10px;
+}
+
+.quartoesercizio label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.quintoesercizio {
+    background-color: pink;
+    padding: 10px;
+}
+
+.quintoesercizio label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sestoesercizio {
+    background-color: rgb(134, 13, 134);
+    padding: 10px;
+}
+
+.sestoesercizio label {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#bottone3 {
+    background-color:green;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    margin-left: 30%;
+}
+
+#bottone4 {
+    background-color:yellow;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    margin-left: 30%;
+}
+
+#bottone5 {
+    background-color:red;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    margin-left: 30%;
+}
+
+#bottone6 {
+    background-color: gold;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    margin-left: 30%;
+}
